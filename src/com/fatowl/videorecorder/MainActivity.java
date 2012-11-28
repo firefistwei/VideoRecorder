@@ -18,6 +18,9 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ProgressBar;
 
+/*
+* Author: Le Ba Vui
+*/
 public class MainActivity extends Activity implements OnClickListener,
 		SurfaceHolder.Callback {
 	MediaRecorder recorder;
